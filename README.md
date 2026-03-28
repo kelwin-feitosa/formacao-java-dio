@@ -1,12 +1,19 @@
-# Formação Java Developer - DIO 🚀
+# ☕ Formação Java Developer - DIO
 
-Este repositório contém todos os projetos, laboratórios e exercícios realizados durante minha jornada de aprendizado na plataforma DIO (Digital Innovation One).
+Este repositório centraliza os desafios técnicos e laboratórios desenvolvidos durante o Bootcamp da **DIO**. Cada diretório representa um exercício independente focado na prática de conceitos específicos da linguagem Java.
 
-## 🗂️ Organização do Repositório
+## 🗂️ Exercícios e Desafios de Prática
 
-O repositório está estruturado por módulos para facilitar a navegação:
+Abaixo estão os módulos realizados, organizados por competência técnica:
 
-* **[Git-e-GitHub](./git-github):** Desafios de versionamento e contribuição open source.
-* **[Lógica-de-Programação](./logica):** Exercícios básicos de sintaxe e lógica.
-* **[Java-Fundamentals](./java-fundamentals):** POO, Collections e tratamentos de exceções.
-* **[Spring-Framework](./spring-framework):** Projetos utilizando Spring Boot, Data e Security.
+### 🔹 Sintaxe e Lógica (Fundamentos)
+* **[Conta Banco - Terminal](src/ContaBanco):** Prática de entrada/saída de dados e manipulação de tipos primitivos.
+* **[Controle de Fluxo](src/DesafioControleFluxo):** Exercício focado em estruturas de repetição e **Tratamento de Exceções Customizadas**.
+
+## 🛠️ Stack Utilizada
+* **Linguagem:** Java 17+
+* **IDE:** VS Code (no Pop!_OS)
+* **Ferramentas:** Git para versionamento.
+
+---
+**Kelwin Feitosa** - *Estudante de Ciência da Computação (UDF)*
