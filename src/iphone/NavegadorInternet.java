@@ -1,4 +1,4 @@
-
+package iphone;
 
 public interface NavegadorInternet {
     void exibirPagina(String url);

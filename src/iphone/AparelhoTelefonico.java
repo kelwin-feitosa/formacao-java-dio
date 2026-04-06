@@ -1,4 +1,4 @@
-
+package iphone;
 
 public interface AparelhoTelefonico {
     void ligar(String numero);
